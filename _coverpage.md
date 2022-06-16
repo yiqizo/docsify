@@ -2,13 +2,13 @@
 
 ![logo](_media/icon.svg)
 
-# docsify <small>3.5</small>
+# 光线培训 <small>3.5</small>
 
-> 一个神奇的文档网站生成器。
+> 一个神奇的应试教育杀手
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 启发学习兴趣
+- 思辨逻辑
+- 快速提分
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Power by Yiqizo](http://yiqizo.com)
+[技术支持](http://yiqizo.com)
+[起步！](/docs_01/)
